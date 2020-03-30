@@ -7,11 +7,14 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
     <string name="action_logout">Logout</string>
-
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Sitios de interés</string>
     <string name="menu_slideshow">Eventos</string>
     <string name="menu_eat">Platos Típicos</string>
     <string name="home_second">Platos Típicos</string>
     <string name="service_emergence">Servicios de Emergencia</string>
+    <string name="plaza_leyenda">Plaza de la leyenda \n Vallenata</string>
+    <string name="pilonera_mayor">Glorieta Pilonera \nMayor</string>
+    <string name="parque_algarrobillo">Parque Algarrobillos</string>
+    <string name="callejon_purruputu">Callejon Purruputu</string>
 </resources>
